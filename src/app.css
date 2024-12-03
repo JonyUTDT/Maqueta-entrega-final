@@ -1,0 +1,18 @@
+html {
+    font-family: anta;
+    line-height: 1.5;
+    font-weight: 400;
+  }
+  body {
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+  }
+  .fl-scrolly-step {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: white !important;
+    max-width: 400px !important;
+  }
+  .flourish-credit{
+    display:none
+  }
