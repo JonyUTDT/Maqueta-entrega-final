@@ -135,6 +135,11 @@ function toggleImage2() {
 }
 </script>
 
+<svelte:head>
+  <script async type='text/javascript'
+  src='https://public.flourish.studio/resources/embed.js' />
+</svelte:head>
+
 <!-- Tipografia Anta -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
