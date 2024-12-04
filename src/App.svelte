@@ -384,7 +384,7 @@ function toggleImage2() {
     <hr class="linea-punteada">
   <!-- Circuito USA -->
   <h3 style="text-align: left; font-family: anta; margin: 0; font-size: 32px; color: red; margin-left: 40px;">Ronda 19</h3>
-  <div style="display: flex; width: 100%; height: 100vh; align-items: center;">
+  <div style="display: flex; width: 100%; height: 100vh; align-items: center; margin-top: -5%">
     
     <!-- Contenedor del gráfico Flourish -->
     <div style="width: 60%; display: flex; justify-content: center; align-items: center; padding: 10px; height: 100%; margin-top: -3%">
@@ -419,7 +419,7 @@ function toggleImage2() {
 
   <!-- Circuito Mexico -->
   <h3 style="text-align: left; font-family: anta; margin: 0; font-size: 32px; color: red; margin-left:40px">Ronda 20</h3>
-  <div style="display: flex; width: 100%; height: 100vh;">
+  <div style="display: flex; width: 100%; height: 100vh; margin-top: -5%">
     <!-- Contenedor del gráfico Flourish -->
     <div style="width: 60%; display: flex; justify-content: center; align-items: center; padding: 10px; height: 100%; text-align: center; margin-top: 10%;">
       <div style="width: 100%; height: 100%; display: flex; align-items: center;">
@@ -451,7 +451,7 @@ function toggleImage2() {
  
   <!-- Circuito Brasil -->
   <h3 style="text-align: left; font-family: anta; margin: 0; font-size: 32px; color: red; margin-left:40px">Ronda 21</h3>
-  <div style="display: flex; width: 100%; height: 100vh;">
+  <div style="display: flex; width: 100%; height: 100vh; margin-top: -5%">
     <!-- Contenedor del gráfico Flourish -->
     <div  style="width: 60%; display: flex; justify-content: center; align-items: center; padding: 10px; height: 100%; margin-top: 10%;">
       <div style="width: 100%; height: 100%; display: flex; align-items: center;">
